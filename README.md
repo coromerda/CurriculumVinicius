@@ -1,2 +1,0 @@
-# CurriculumVinicius
-Resume Hosting
